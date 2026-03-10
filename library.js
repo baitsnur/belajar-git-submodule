@@ -5,3 +5,7 @@ function hay(name) {
 function hallo() {
   return "Hai kamu!";
 }
+
+function sum(a, b) {
+  return a + b;
+}
